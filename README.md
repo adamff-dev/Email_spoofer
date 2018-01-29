@@ -1,2 +1,2 @@
-# Mail_spoofer
+# Mail spoofer
 PHP mail spoofer
