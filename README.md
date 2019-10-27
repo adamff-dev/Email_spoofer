@@ -12,3 +12,6 @@ You can use <a href="https://github.com/curl/curl">curl</a> to send the php form
 ``curl --data "from=$FROM&to=TO&subject=SUBJECT&message=MESSAGE" $PHP_URL``
 
 If you want to do this automatically, you can use <a href="https://github.com/BlueArduino20/Email_spoofer/blob/master/auto_curl.sh">this</a> little script.
+
+## Disclaimer
+This project is for testing and educational purposes. I don't take any responsibility for what you do with this program.
